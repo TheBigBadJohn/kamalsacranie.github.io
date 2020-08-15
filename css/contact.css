@@ -1,0 +1,19 @@
+.contact-me {
+    margin: auto;
+    color: white;
+    text-align: center;
+    padding-top: 70px;
+    font-size: 24px;
+}
+
+.details {
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 13px;
+}
+
+a {
+    color: white;
+}
