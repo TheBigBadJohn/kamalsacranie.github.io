@@ -104,3 +104,16 @@ body {
 #work-exp {
     text-align: left;
 }
+
+footer {
+    margin-bottom: 1px;
+    mix-blend-mode: difference;
+}
+
+.section1 {
+    padding-bottom: 25%;
+}
+
+.section2 {
+    padding-bottom: 45%;
+}
