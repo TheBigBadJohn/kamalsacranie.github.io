@@ -38,7 +38,7 @@ body {
     min-height: 400px;
     background: url('../images/profile-pic.png');
     background-position: center;
-    background-size: contain;
+    background-size: 100%;
 }
 
 .name {
