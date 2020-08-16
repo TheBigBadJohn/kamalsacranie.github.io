@@ -107,7 +107,7 @@ body {
 
 footer {
     margin-bottom: 1px;
-    mix-blend-mode: difference;
+    mix-blend-mode: exclusion;
 }
 
 .section1 {
