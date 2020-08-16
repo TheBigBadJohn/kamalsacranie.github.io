@@ -36,7 +36,7 @@ body {
     max-width: 300px;
     min-width: 300px;
     min-height: 400px;
-    background: url('images/profile-pic.png');
+    background: url('../images/profile-pic.png');
     background-position: center;
     background-size: contain;
 }
