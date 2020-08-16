@@ -108,6 +108,7 @@ body {
 footer {
     margin-bottom: 1px;
     mix-blend-mode: exclusion;
+    color: white;
 }
 
 .section1 {
