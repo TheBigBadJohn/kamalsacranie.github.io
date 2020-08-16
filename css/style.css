@@ -78,9 +78,14 @@ body {
     margin: 0 auto;
     text-align: center;
     font-size: 30px;
+    max-width: 90%;
 }
 .about-me h1 {
     font-weight: 900;
+}
+
+.about-me p {
+    font-size: 18px;
 }
 
 .marks {
