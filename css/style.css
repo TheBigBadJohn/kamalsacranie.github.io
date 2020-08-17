@@ -105,11 +105,14 @@ body {
     text-align: left;
 }
 
-footer {
-    margin-bottom: 1px;
+footer{
     mix-blend-mode: exclusion;
     color: white;
-}
+    position:fixed;
+    bottom:0;
+    left:0;
+    background-color: black;
+   }
 
 .section1 {
     padding-bottom: 25%;
